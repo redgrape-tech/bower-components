@@ -1,0 +1,27 @@
+{
+  "name": "eldarion-ajax",
+  "version": "0.15.0",
+  "main": "./js/eldarion-ajax.min.js",
+  "dependencies": {
+    "jquery": ">=1.8.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/eldarion/bootstrap-ajax",
+  "_release": "0.15.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.15.0",
+    "commit": "fdd16dcbdc91e8b99f5cefdfe2afe02c6d9c4e9b"
+  },
+  "_source": "https://github.com/eldarion/bootstrap-ajax.git",
+  "_target": "^0.15.0",
+  "_originalSource": "bootstrap-ajax",
+  "_direct": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap3-typeahead-extended",
+  "version": "3.0.7",
+  "authors": [
+    "Jeffrey Vandenborne",
+    "bassjobsen"
+  ],
+  "main": [
+    "bootstrap3-typeahead.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  }
+}

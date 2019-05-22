@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap3-typeahead-extended",
+  "version": "3.0.7",
+  "authors": [
+    "Jeffrey Vandenborne",
+    "bassjobsen"
+  ],
+  "main": [
+    "bootstrap3-typeahead.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  },
+  "homepage": "https://github.com/JeffreyVdb/Bootstrap-3-Typeahead",
+  "_release": "3.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.0.7",
+    "commit": "c7b54060afaef07a8b9361c6dbbb5e1af2c47992"
+  },
+  "_source": "https://github.com/JeffreyVdb/Bootstrap-3-Typeahead.git",
+  "_target": "^3.0.7",
+  "_originalSource": "bootstrap3-typeahead-extended",
+  "_direct": true
+}
